@@ -1,0 +1,15 @@
+{
+  "project": "Recall",
+  "source_repository": "https://github.com/CAPEXNULL/Recall",
+  "source_commit": "6758af4033aac3eb9341b8fb03dc3f2352251980",
+  "runtime_text_unchanged": true,
+  "line_endings": "LF",
+  "runtime_sha256": {
+    "app.py": "a8a2eca40d858ac0d2af693304a1b8975d39ec38cb2ad454c202c04f724f8315",
+    "recall_core.py": "033305dc7769eb1503226ab94f02d61795b096e9b90f3f0cded76431282a7eba",
+    "model_client.py": "f563f44d28b9a35d7802aad52d1a507bf393270a6587e5dd3c965a2bfe481d06",
+    "requirements.txt": "1a47e99249e6f51c87b6aa7ac9f7e05fa0c4f9f4c54352721ca0e75e6d7e4833",
+    "demo/scenario.json": "3972d5cf8231e24ea2dc98e47ab1024e954e40319b8539b880c5afbf71064b74"
+  },
+  "tests": "Original TransferObjectRegression, CriticalMismatchRegression and EnglishDemoRegression bodies; standalone offline imports. Historical acceptance harness is not the public judging entry point."
+}
